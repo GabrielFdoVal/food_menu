@@ -53,9 +53,4 @@ const dummyCategories = [
     title: 'Verão',
     color: Colors.teal,
   ),
-  Category(
-    id: 'c11',
-    title: 'Inverno',
-    color: Colors.deepPurpleAccent,
-  ),
 ];
